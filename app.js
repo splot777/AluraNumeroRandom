@@ -64,6 +64,7 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
+alert("Seja bem-vindo(a) ao jogo do número secreto!");
 
 
 
